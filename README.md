@@ -29,14 +29,15 @@ C++ programs for beginners, C++ examples, C++ practical programs, C++ lab progra
 | --- | --- |
 | `01_basics` | Syntax, output, comments, data types, variables, input, constants, escape sequences, namespace |
 | `02_operators` | Arithmetic, relational, logical, assignment, unary, ternary, bitwise, `sizeof`, type casting |
-| `03_control_flow` | `if`, `if-else`, nested `if`, `switch`, loops, range-for, `break`, `continue`, `goto` |
-| `04_functions` | Function types, recursion, reference parameters, overloading, default arguments, inline functions, lambdas |
-| `05_arrays_strings` | Arrays, 2D arrays, strings, string methods, reverse, uppercase, lowercase, `getline` |
-| `06_structures_pointers` | Structure, union, enum, pointers, pointer modification, pointer to pointer |
+| `03_control_flow` | `if`, `if-else`, nested `if`, `switch`, loops, nested loops, range-for, `break`, `continue`, `goto`, practical number programs |
+| `04_functions` | Function types, recursion, reference parameters, overloading, default arguments, inline functions, lambdas, lambda capture, lambda with STL |
+| `05_arrays_strings` | Arrays, array sum, largest and smallest value, 2D arrays, matrix addition, character arrays, strings, string methods, reverse, uppercase, lowercase, `getline`, string comparison |
+| `06_structures_pointers` | Structure, array of structures, nested structures, union, enum, enum class, pointers, pointer arithmetic, pointer and arrays, pointer to pointer, pointer to function, void pointer |
 | `07_oop` | Class, object, constructors, destructor, encapsulation, inheritance, polymorphism, abstraction, friend function, operator overloading |
-| `08_files_exceptions` | File write/read/append, file checking, binary files, exception handling |
-| `09_stl` | Vector, list, set, map, stack, queue, sort, find, pair, iterator |
-| `10_dynamic_memory_templates` | `new`, arrays, `malloc`, `calloc`, `realloc`, templates, static keyword, smart pointer, memory leak awareness |
+| `08_files_exceptions` | File write/read/append, `fstream`, file checking, binary files, command-line arguments, exception handling, multiple catch blocks, custom exception |
+| `09_stl` | Vector, deque, list, set, unordered set, map, unordered map, stack, queue, priority queue, sort, find, count, reverse, binary search, pair, iterator |
+| `10_dynamic_memory_templates` | `new`, `delete`, dynamic arrays, `malloc`, `calloc`, `realloc`, `free`, templates, template specialization, storage classes, smart pointers, move semantics, `constexpr`, memory leak and dangling pointer awareness |
+| `11_mini_project` | Student Management System using classes, functions, vector, and file handling |
 
 ## Practice Material
 
