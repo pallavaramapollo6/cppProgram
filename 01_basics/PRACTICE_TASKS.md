@@ -2,11 +2,11 @@
 
 Follow each requirement exactly. Use clear output labels so the answer can be checked easily.
 
-1. Create four variables: `name = "Kiran"`, `rollNumber = 24`, `department = "Computer Science"`, and `city = "Chennai"`. Print them as a student ID card with one value per line.
+1. Create four variables: `name = "Rithikaa"`, `rollNumber = 24`, `department = "Computer Science"`, and `city = "Chennai"`. Print them as a student ID card with one value per line.
    Example output:
    ```text
    Student ID Card
-   Name: Kiran
+   Name: Rithikaa
    Roll No: 24
    Department: Computer Science
    City: Chennai
